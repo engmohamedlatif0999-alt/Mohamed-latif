@@ -7,7 +7,7 @@ I'm a *Computer Science student* at the Faculty of Computers & Information and a
 ## 💻 Skills
 
 - *Programming Languages:* C++, Python, JavaScript  
-- *Web Development:* HTML, CSS, React (if تحب تضيف)  
+- *Web Development:* HTML, CSS, React   
 - *Tools & Technologies:* Git, GitHub, VS Code, Linux basics  
 
 ---
